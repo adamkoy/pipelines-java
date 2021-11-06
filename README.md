@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/OvisPOCDevs/OvisAppsPOCTest/_apis/build/status/adamkoy.pipelines-java?branchName=master)](https://dev.azure.com/OvisPOCDevs/OvisAppsPOCTest/_build/latest?definitionId=24&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
